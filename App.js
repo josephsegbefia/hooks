@@ -4,7 +4,8 @@ import './styles.css';
 
 // components
 import UseStateExample from './UseStateExample';
-import UseEffectExample from './useEffectExample';
+// import UseEffectExample from './UseEffectExample';
+import UseEffectExample from './UseEffectExample';
 
 export default props => {
   const [example, setExample] = useState('UseStateExample');
